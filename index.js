@@ -30,7 +30,7 @@ function dec(n) {
 }
 
 function maekInt(n) {
-  return parseInt(n)
+  return parseInt(n, 10)
 }
 
 describe('makeInt(n)', function() {
