@@ -31,7 +31,6 @@ function dec(n) {
 
 function maekInt(n) {
   return parseInt(n)
-  
 }
 
 describe('makeInt(n)', function() {
