@@ -35,7 +35,6 @@ function maekInt(n) {
 
 function  preserveDecimal(n) {
   return parseFloat(n)
-  
 }
 
 describe('preserveDecimal(n)', function() {
