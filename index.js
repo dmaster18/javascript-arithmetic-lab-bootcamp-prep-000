@@ -7,9 +7,6 @@ function subtract(a,b)
 function multiply(a,b)
 {return a*b}
 
-it('multiply(a, b) multiplies two numbers and returns the result', function() {
-  expect(multiply(a, b)).toEqual(a * b)
-})
 
 function divide(a, b) {
   return a/b
