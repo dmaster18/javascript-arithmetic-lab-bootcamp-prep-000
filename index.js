@@ -29,7 +29,7 @@ function dec(n) {
   return n--
 }
 
-
+function 
 
 describe('makeInt(n)', function() {
   it('parses n as an integer and returns the parsed integer', function() {
